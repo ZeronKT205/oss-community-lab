@@ -31,3 +31,5 @@ Kết quả: `OSS Community Lab`.
 ## Tác giả
 
 Đoàn Kim Tài
+
+Pull Request template test.
